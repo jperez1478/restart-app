@@ -1,4 +1,4 @@
-# restart-app
+# Restart App
 
 -----
 Main Objectives 
