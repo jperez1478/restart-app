@@ -10,3 +10,7 @@ Main Objectives
 
 
 <img width="200" alt="Screen Shot 2022-05-25 at 10 07 05 PM" src="https://user-images.githubusercontent.com/61983873/170407668-ad6a9517-2e84-47fe-9c59-54710ad6faad.png">
+
+## Onboarding Screen 
+
+<img width="235" alt="Screen Shot 2022-06-01 at 9 09 01 PM" src="https://user-images.githubusercontent.com/61983873/171533116-bfe4aeb1-63da-4368-a89b-1f2f9b5bbd05.png">
